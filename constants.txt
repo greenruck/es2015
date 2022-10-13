@@ -1,0 +1,5 @@
+const PI = 3.14
+var can be redeclared as let cannot. 
+var can be reassigned, redeclared and mutated as const can only be mutated. 
+let can be reassigned as const cannot
+When var is used, the variable is sent to the top of the page and is accessed as undefined until a value is assigned later on down the page. 
